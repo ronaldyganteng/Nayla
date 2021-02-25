@@ -5,11 +5,11 @@ Based on [marie bot](https://github.com/PaulSonOfLars/tgbot) and [EmiliaHikariBo
 
 [Read english README](https://github.com/ronaldyganteng/NAYLA/blob/master/README.en.md)
 
-**If you want to translate this bot**, [please go here](https://github.com/agung-762/NISA/blob/master/TRANSLATION.md)
+**If you want to translate this bot**, [please go here](https://github.com/ronaldyganteng/nayla/blob/master/TRANSLATION.md)
 
 Dapat ditemukan di telegram sebagai [NAYLA](https://t.me/Naylasilvianibot).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ronaldyganteng/NISA.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ronaldyganteng/Nayla.git)
 
 
 # source info
@@ -52,13 +52,13 @@ from tg_bot.sample_config import Config
 
 
 class Development(Config):
-    OWNER_ID = 388576209  # my telegram ID
-    OWNER_USERNAME = "AyraHikari"  # my telegram username
+    OWNER_ID = 1234372002 # my telegram ID
+    OWNER_USERNAME = "afterdaytoxic"  # my telegram username
     API_KEY = "your bot api key"  # my api key, as provided by the botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
-    MESSAGE_DUMP = '-1234567890' # some group chat that your bot is a member of
+    MESSAGE_DUMP = '-1234372002' # some group chat that your bot is a member of
     USE_MESSAGE_DUMP = True
-    SUDO_USERS = [18673980, 83489514]  # List of id's for users which have sudo access to the bot.
+    SUDO_USERS = []  # List of id's for users which have sudo access to the bot.
     LOAD = []
     NO_LOAD = ['translation']
 ```
