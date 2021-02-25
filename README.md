@@ -3,11 +3,11 @@ Telegram modular Python bot berjalan di python3 dengan database sqlalchemy.
 
 Based on [marie bot](https://github.com/PaulSonOfLars/tgbot) and [EmiliaHikariBot](https://github.com/AyraHikari/EmiliaHikariBot)
 
-[Read english README](https://github.com/ronaldyganteng/NAYLA/blob/master/README.en.md)
+[Read english README](https://github.com/ronaldyganteng/Nayla/blob/master/README.en.md)
 
-**If you want to translate this bot**, [please go here](https://github.com/ronaldyganteng/nayla/blob/master/TRANSLATION.md)
+**If you want to translate this bot**, [please go here](https://github.com/ronaldyganteng/Nayla/blob/master/TRANSLATION.md)
 
-Dapat ditemukan di telegram sebagai [NAYLA](https://t.me/Naylasilvianibot).
+Dapat ditemukan di telegram sebagai [NAYLA](https://t.me/Naylapricillabot).
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ronaldyganteng/Nayla.git)
 
@@ -16,7 +16,7 @@ Dapat ditemukan di telegram sebagai [NAYLA](https://t.me/Naylasilvianibot).
 
 Awalnya bot manajemen grup sederhana dengan beberapa fitur admin, telah berevolusi, menjadi sangat modular dan
 
-Marie dan saya sedang memoderasi [support group](https://t.me/NLydW_Bot), di mana Anda dapat meminta bantuan untuk mengaturnya
+Marie dan saya sedang memoderasi [support group](https://t.me/Naylapricillabot), di mana Anda dapat meminta bantuan untuk mengaturnya
 bot, temukan / minta fitur baru, laporkan bug, dan tetap di dalam pengulangan setiap kali pembaruan baru tersedia. Tentu saja
 Saya juga akan membantu ketika skema database berubah, dan beberapa kolom tabel perlu dimodifikasi/ditambahkan. Catatan untuk pengelola bahwa semua perubahan skema akan ditemukan dalam pesan commit, dan tanggung jawab mereka untuk membaca setiap commit baru.
 
